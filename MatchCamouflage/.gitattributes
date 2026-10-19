@@ -1,0 +1,2 @@
+MatchCamouflage/Library/PackageCache/com.unity.burst/.Runtime/libburst-llvm-19.dylib filter=lfs diff=lfs merge=lfs -text
+MatchCamouflage/Library/PackageCache/com.unity.burst/.Runtime/* filter=lfs diff=lfs merge=lfs -text
